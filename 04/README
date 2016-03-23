@@ -1,0 +1,9 @@
+You're using nginx in front of your web app for serving static content and as
+proxy for your Python web app.
+
+Now your Python web app need a caching htttp proxy. You decide that nginx fits
+this role perfectly.
+
+Considering the 12factor principles, do you use the existing nginx or a new one
+for that. And why?
+

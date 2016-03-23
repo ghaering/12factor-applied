@@ -1,0 +1,2 @@
+Which 12 factor principle is violated by connecting nginx and uwsgi via a Unix
+domain socket?
